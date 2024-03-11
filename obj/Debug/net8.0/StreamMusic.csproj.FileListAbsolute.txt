@@ -1,0 +1,15 @@
+C:\Users\krust\OneDrive\Bureau\C#\StreamMusic\bin\Debug\net8.0\StreamMusic.exe
+C:\Users\krust\OneDrive\Bureau\C#\StreamMusic\bin\Debug\net8.0\StreamMusic.deps.json
+C:\Users\krust\OneDrive\Bureau\C#\StreamMusic\bin\Debug\net8.0\StreamMusic.runtimeconfig.json
+C:\Users\krust\OneDrive\Bureau\C#\StreamMusic\bin\Debug\net8.0\StreamMusic.dll
+C:\Users\krust\OneDrive\Bureau\C#\StreamMusic\bin\Debug\net8.0\StreamMusic.pdb
+C:\Users\krust\OneDrive\Bureau\C#\StreamMusic\obj\Debug\net8.0\StreamMusic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krust\OneDrive\Bureau\C#\StreamMusic\obj\Debug\net8.0\StreamMusic.AssemblyInfoInputs.cache
+C:\Users\krust\OneDrive\Bureau\C#\StreamMusic\obj\Debug\net8.0\StreamMusic.AssemblyInfo.cs
+C:\Users\krust\OneDrive\Bureau\C#\StreamMusic\obj\Debug\net8.0\StreamMusic.csproj.CoreCompileInputs.cache
+C:\Users\krust\OneDrive\Bureau\C#\StreamMusic\obj\Debug\net8.0\StreamMusic.dll
+C:\Users\krust\OneDrive\Bureau\C#\StreamMusic\obj\Debug\net8.0\refint\StreamMusic.dll
+C:\Users\krust\OneDrive\Bureau\C#\StreamMusic\obj\Debug\net8.0\StreamMusic.pdb
+C:\Users\krust\OneDrive\Bureau\C#\StreamMusic\obj\Debug\net8.0\StreamMusic.genruntimeconfig.cache
+C:\Users\krust\OneDrive\Bureau\C#\StreamMusic\obj\Debug\net8.0\ref\StreamMusic.dll
+C:\Users\krust\OneDrive\Bureau\C#\StreamMusic\obj\Debug\net8.0\StreamMusic.sourcelink.json
